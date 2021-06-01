@@ -1,0 +1,24 @@
+.header{
+    // background: whitesmoke;
+    padding: 5px 20px;
+    // background: #E8F3F1;
+    background: #e8e8e8;
+    
+    .menu{
+         ul{
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+        
+            li{
+                padding: 0 10px;
+                a{
+                    text-decoration: none;
+                    font-size: 16px;
+                    color: #4E846A;
+                    font-weight: 600;
+                }
+            }
+         }
+    }
+}

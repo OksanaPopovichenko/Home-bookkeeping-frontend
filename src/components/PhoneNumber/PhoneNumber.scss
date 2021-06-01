@@ -1,0 +1,22 @@
+.geo-input-phone input{
+    padding: 0 15px 0 60px;
+    height: 41px;
+    font-size: 17px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 4px;
+    box-sizing: border-box;
+    min-width: 150px;
+    border: 1px solid rgba(165, 171, 189, 0.4);
+    color: #555555;
+}
+
+.PhoneInput{
+    position: relative;
+}
+
+.PhoneInputCountry{
+    position: absolute;
+    top: 13px;
+    left: 15px;
+}
